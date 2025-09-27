@@ -1,0 +1,195 @@
+--- --- @import "minimal-mistakes";
+
+/* Custom CSS for larger profile image */
+.author__avatar {
+    img {
+        max-width: 150px !important;
+        border-radius: 50%;
+    }
+}
+
+/* Make it larger on desktop */
+@media (min-width: 768px) {
+    .author__avatar {
+        img {
+            max-width: 180px !important;
+        }
+    }
+}
+
+/* Author bio section spacing */
+.author__content {
+    margin-top: 1em;
+}
+
+/* Wide layout improvements */
+.wide .page {
+    @include breakpoint($large) {
+        padding-right: 0;
+    }
+
+    @include breakpoint($x-large) {
+        padding-right: 0;
+    }
+}
+
+/* Feature wrapper spacing */
+.feature__wrapper {
+    margin-bottom: 2em;
+}
+
+.feature__wrapper .feature__item {
+    margin-bottom: 2em;
+}
+
+/* Content sections spacing */
+.page__content {
+    h2 {
+        margin-top: 2em;
+        margin-bottom: 1em;
+    }
+
+    h3 {
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+    }
+
+    ul {
+        margin-bottom: 1.5em;
+    }
+}
+
+/* Skills section readability */
+.page__content ul li {
+    margin-bottom: 0.3em;
+    line-height: 1.6;
+}
+
+/* Latest Updates section styling */
+.page__content ul li strong {
+    color: #333;
+}
+
+/* Make the CV card larger */
+.feature__item.cv-card {
+    flex: 1 1 100% !important;
+}
+
+@media (min-width: 768px) {
+    .feature__item.cv-card {
+        flex: 1 1 60% !important;
+    }
+
+    .feature__wrapper {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-auto-rows: auto;
+    }
+
+    .feature__item.cv-card {
+        grid-column: span 2;
+    }
+}
+
+/* CV card typography */
+.feature__item.cv-card .archive__item-title {
+    font-size: 1.35em;
+}
+
+.feature__item.cv-card .archive__item-excerpt {
+    font-size: 1.05em;
+}
+
+/* Projects page styling */
+.project-grid {
+    display: grid;
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+
+.project-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.project-thumbnail {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.project-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.2s ease;
+}
+
+.project-item:hover .project-thumbnail img {
+    transform: scale(1.05);
+}
+
+.project-content {
+    padding: 1.5rem;
+}
+
+.project-content h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #333;
+    font-size: 1.3em;
+}
+
+.project-content p {
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+.project-content h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #333;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.project-content ul {
+    margin-bottom: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+.project-content ul li {
+    margin-bottom: 0.3rem;
+    line-height: 1.5;
+    color: #555;
+}
+
+.project-buttons {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.project-buttons .btn {
+    flex: 0 0 auto;
+}
+
+/* Project titles above images */
+.project-item h1 {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    padding: 0 1.5rem;
+    color: #333;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-align: center;
+}
