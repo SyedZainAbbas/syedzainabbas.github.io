@@ -155,8 +155,9 @@ improving reporting accuracy by 5%
 
 ## Projects
 1. **GridGEN**: Synthetic distribution grid data generation using Variational Graph Autoencoder (VGAE)
-2. **Time Series Forecasting**: Wind Power Forecasting using Long Short Term Memory (LSTM)
-3. **Energy System Sizing**: Optimal configuration of residential photovoltaic (PV) systems and battery storage to maximize long-term economic benefits
+2. **Time Series Forecasting**: Electricity price prediction system using LSTM/GRU networks and ensemble methods with advanced feature engineering
+3. **Time Series Forecasting**: Wind Power Forecasting using Long Short Term Memory (LSTM)
+4. **Energy System Sizing**: Optimal configuration of residential photovoltaic (PV) systems and battery storage to maximize long-term economic benefits
 
 *For detailed project descriptions, please visit my [Projects](/projects/) page.*
 

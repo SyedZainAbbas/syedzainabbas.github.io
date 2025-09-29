@@ -59,6 +59,49 @@ Welcome to my projects portfolio! Here you'll find a collection of my work in da
 
 <!-- Time Series Forecasting Project -->
 <div class="project-item">
+  <h1>Time Series Forecasting: Electricity Price Prediction</h1>
+  <div class="project-thumbnail">
+    <figure>
+      <img src="/assets/images/projects/electricity-price-forecasting-thumbnail.jpg" alt="Electricity Price Prediction Thumbnail" />
+      <figcaption><a href="https://energygain.co.uk/uk-electricity-prices-double-in-a-year/" target="_blank" rel="noopener noreferrer">Image Source</a></figcaption>
+    </figure>
+  </div>
+  <div class="project-content">
+    <p>This project focuses on forecasting day-ahead electricity prices using various machine learning and deep learning approaches. The goal is to predict 24-hour electricity prices (D+1) based on historical price data, demand forecasts, and generation forecasts, using strictly causal features up to D 23:00.</p>
+    
+<h4>Key Features:</h4>
+<ul>
+  <li><strong>Multi-Architecture Neural Network Comparison:</strong> Comprehensive evaluation of LSTM and GRU architectures with configurable hidden units (24) and single-layer design optimized for 24-hour electricity price forecasting</li>
+  <li><strong>Advanced Feature Engineering Pipeline:</strong> Sophisticated temporal feature creation including lag variables (1, 24, 48, 168 hours), rolling statistics (24, 168-hour windows), and time-based features for comprehensive market signal capture</li>
+  <li><strong>Ensemble Methods Integration:</strong> Implementation of Random Forest and XGBoost algorithms alongside neural networks for robust performance comparison and model selection under operational constraints</li>
+  <li><strong>Explainable AI Framework:</strong> Dual interpretability approach using Captum Integrated Gradients and SHAP values for feature attribution analysis, enabling transparent model decisions and regulatory compliance</li>
+  <li><strong>Time Series Cross-Validation Strategy:</strong> 10-fold walk-forward validation with 168-hour input windows and daily increment progression, ensuring temporal integrity and realistic performance evaluation for day-ahead market operations</li>
+  <li><strong>Operational Deployment Considerations:</strong> Real-world constraint modeling with noon deadline submissions for day-ahead markets, comparing model performance under complete vs. limited data availability scenarios</li>
+  <li><strong>Multi-Modal Data Integration:</strong> Fusion of historical electricity prices, demand forecasts, and generation mix data with automated preprocessing and feature scaling for robust market prediction</li>
+</ul>
+    
+    <h4>Tech Stack:</h4>
+    <p><strong>Languages:</strong> Python<br>
+    <strong>Libraries:</strong> Pytorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn<br>
+    <strong>Tools:</strong> Jupyter Notebook, Git</p>
+    
+    <div class="project-buttons">
+      <a href="https://github.com/SyedZainAbbas/Time-Series-Forecasting-Electricity-Price-Prediction" class="btn btn--info" target="_blank">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+    
+    <div class="project-results">
+      <figure>
+        <img src="/assets/images/projects/gru_forecast_10_10.png" alt="Electricity Price Prediction Results" />
+        <figcaption><strong>Electricity Price Prediction Results using GRU</strong></figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
+
+<!-- Time Series Forecasting Project -->
+<div class="project-item">
   <h1>Time Series Forecasting: Wind Power Prediction</h1>
   <div class="project-thumbnail">
     <figure>
@@ -84,7 +127,7 @@ Welcome to my projects portfolio! Here you'll find a collection of my work in da
     <strong>Tools:</strong> Jupyter Notebook, Git</p>
     
     <div class="project-buttons">
-      <a href="https://github.com/SyedZainAbbas/Time-Series-Forecasting_Wind-Power-Prediction" class="btn btn--info" target="_blank">
+      <a href="https://github.com/SyedZainAbbas/Time-Series-Forecasting-Wind-Power-Prediction" class="btn btn--info" target="_blank">
         <i class="fab fa-github"></i> GitHub
       </a>
     </div>
