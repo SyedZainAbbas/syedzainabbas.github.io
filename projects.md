@@ -141,6 +141,46 @@ Welcome to my projects portfolio! Here you'll find a collection of my work in da
   </div>
 </div>
 
+<!-- Electricity Market Insights Project -->
+<div class="project-item">
+  <h1>Energy Market Analytics: Spot Price Trends & Influencing Factors</h1>
+  <div class="project-thumbnail">
+    <figure>
+      <img src="/assets/images/projects/electricity-market-insights-thumbnail.png" alt="Electricity Market Insights Thumbnail" />
+      <figcaption><a href="https://www.sqe.energy/insights/understanding-power-markets-merit-order-and-marginal-pricing" target="_blank" rel="noopener noreferrer">Image Source</a></figcaption>
+    </figure>
+  </div>
+  <div class="project-content">
+    <p>This project analyzes the key factors influencing electricity Day-Ahead market prices in Germany, with a focus on comparing market dynamics between June 2020 and June 2021. The analysis reveals significant price variations and explores the underlying mechanisms driving these changes.</p>
+    
+<h4>Key Features:</h4>
+<ul>
+  <li><strong>Multi-Source Data Integration Pipeline:</strong> Automated preprocessing function combining electricity consumption, generation by source, and Day-Ahead pricing data with temporal indexing and column standardization for comprehensive market analysis.</li>
+  <li><strong>Time-Series Pattern Recognition:</strong> Multi-scale temporal analysis with hourly, daily, and weekly pattern identification, including categorical time-of-day classification (Night / Morning-Evening / Midday) for demand cycle characterization.</li>
+  <li><strong>Comparative Statistical Framework:</strong> Descriptive analytics with kernel density estimation and box plot distributions, quantifying a 200% median price increase between June 2020 and June 2021 periods.</li>
+  <li><strong>Energy Market Visualization System:</strong> Multi-panel dashboard with side-by-side comparisons and stacked generation charts tracking renewable impact on price volatility and grid load patterns.</li>
+</ul>
+    
+    <h4>Tech Stack:</h4>
+    <p><strong>Languages:</strong> Python<br>
+    <strong>Libraries:</strong> Pandas, Matplotlib, Seaborn<br>
+    <strong>Tools:</strong> Jupyter Notebook, Git</p>
+    
+    <div class="project-buttons">
+      <a href="https://github.com/SyedZainAbbas/Electricity-Market-Insights" class="btn btn--info" target="_blank">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+    
+    <div class="project-results">
+      <figure>
+        <img src="/assets/images/projects/hourly-volatility.png" alt="Hourly Volatility" />
+        <figcaption><strong>Electricity Price Variation by Hour of the Day</strong></figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
+
 <!-- Energy System Sizing Project -->
 <div class="project-item">
   <h1>Energy System Sizing: Optimal PV & Battery Configuration</h1>
