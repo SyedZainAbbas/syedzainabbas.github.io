@@ -222,7 +222,40 @@ Welcome to my projects portfolio! Here you'll find a collection of my work in da
   </div>
 </div>
 
+<!-- Second Life EV Batteries -->
+<div class="project-item">
+  <h1>Second‑Life EV Batteries: Stationary Repurposing Analysis</h1>
+  <div class="project-thumbnail">
+    <figure>
+      <img src="/assets/images/projects/second-life-ev-thumbnail.jpg" alt="Second‑Life EV Battery Thumbnail" />
+      <figcaption><a href="https://doi.org/10.1016/j.xcrp.2022.101095" target="_blank" rel="noopener noreferrer">Image Source</a></figcaption>
+    </figure>
+  </div>
+
+  <div class="project-content">
+    <p>Studied technical and economic aspects of repurposing retired EV batteries for stationary energy applications.</p>
+
+    <h4>Key Features:</h4>
+    <ul>
+      <li><strong>Reviewed</strong> real-world second-life EV battery projects, industry pilots, and commercial deployments across Europe</li>
+      <li><strong>Analysed degradation mechanisms</strong> and first‑life factors influencing second‑life performance (SoH, internal resistance, knee‑point behaviour)</li>
+      <li><strong>Compared repurposing strategies</strong> at pack, module, and cell level; highlighted cost, safety, and performance trade-offs</li>
+      <li><strong>Evaluated stationary applications:</strong> PV self‑consumption, peak shaving, frequency regulation, microgrids, and demand response</li>
+      <li><strong>Assessed</strong> economic and technical feasibility under varying market and technical conditions</li>
+      <li><strong>Identified adoption barriers:</strong> missing first‑life data, cost uncertainty, competition with new batteries, and safety/regulatory issues</li>
+    </ul>
+
+    <div class="project-buttons">
+      <a href="/assets/pdfs/second-life-ev-battery.pdf" class="btn btn--primary" target="_blank" download>
+        <i class="fas fa-file-pdf"></i> View Paper
+      </a>
+    </div>
+  </div>
 </div>
+
+</div>
+
+
 
 <!-- ---
 

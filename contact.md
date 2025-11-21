@@ -29,7 +29,7 @@ I'm always excited to connect with fellow data scientists, researchers, industry
           <i class="fas fa-envelope" style="color: #3498db;"></i> Email
         </h2>
         <div class="archive__item-excerpt">
-          <p><strong>Professional:</strong> <a href="mailto:syedzain7226@gmail.com">syedzain7226@gmail.com</a></p>
+          <p><strong>Professional:</strong> <a href="mailto:syedzain.tum@gmail.com">syedzain.tum@gmail.com</a></p>
           <p><strong>Academic:</strong> <a href="mailto:syedzain.abbas@tum.de">syedzain.abbas@tum.de</a></p>
           <p>Best for: Collaboration inquiries, job opportunities, detailed discussions</p>
         </div>

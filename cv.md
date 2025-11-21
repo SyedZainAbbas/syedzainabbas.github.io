@@ -127,23 +127,6 @@ improving reporting accuracy by 5%
 
 ---
 
-## Certifications
-
-- **Machine Learning Fundamentals - edX (UC San Diego)** | [Aug 2025] [↗](https://courses.edx.org/certificates/df9a4b2e51d84e3b8eb75865b0006e0d){:target="_blank"}
-- **Pytorch for Deep Learning - Udemy** | [Aug 2025] [↗](https://www.udemy.com/certificate/UC-5970fc13-f2b0-4490-b3d1-2966b7ac9ab0){:target="_blank"}
-- **Big Data with Apache Spark and Python - Udemy** | [Jul 2025] [↗](https://www.udemy.com/certificate/UC-16fbbe70-f578-4f3b-a1ff-06cbba7e6c04){:target="_blank"}
-- **SQL for Advanced Data Analysis - Udemy** | [June 2025] [↗](https://www.udemy.com/certificate/UC-2c6c401c-a1ae-4b3c-b3d4-2717553d20f0){:target="_blank"}
-- **Probability & Statistics - edX (UC San Diego)** | [Feb 2025] [↗](https://courses.edx.org/certificates/c6433a1927024d3a878514831d4d8eb7){:target="_blank"}
-- **Probability & Statistics - Udemy** | [Oct 2024] [↗](https://www.udemy.com/certificate/UC-61e303e7-e906-42e1-a43b-c0388a4c10fa){:target="_blank"}
-- **Python for Machine Learning & Data Science - Udemy** | [Oct 2024] [↗](https://www.udemy.com/certificate/UC-2096094f-31a0-43f6-8411-44046d603a5b/){:target="_blank"}
-- **Python for Data Science - edX (UC San Diego)** | [Jul 2024] [↗](https://courses.edx.org/certificates/417fdb88776544ddb4341da151414937){:target="_blank"}
-- **Probability - The Science of Uncertainty and Data edX (MIT)** | [Sep 2023] [↗](https://courses.edx.org/certificates/7ad1cf41f11c44bdb8518f9fa365f289){:target="_blank"}
-- **SQL Bootcamp - Udemy** | [May 2023] [↗](https://www.udemy.com/certificate/UC-04e1c74a-41dd-444b-94a9-c5eefca8c127){:target="_blank"}
-- **Microsoft Power BI - Udemy** | [Mar 2023] [↗](https://www.udemy.com/certificate/UC-b8884962-fcfb-4109-850e-cef106a88653){:target="_blank"}
-- **Python Bootcamp - Udemy** | [Mar 2023] [↗](https://www.udemy.com/certificate/UC-291ea550-eef0-4beb-a712-152ab8009628){:target="_blank"}
-
-
----
 <!-- 
 ## Projects & Achievements
 
@@ -159,8 +142,27 @@ improving reporting accuracy by 5%
 3. **Time Series Forecasting**: Wind Power Forecasting using Long Short Term Memory (LSTM)
 4. **Energy Market Analytics**: Day-Ahead Price Trends & Influencing Factors
 5. **Energy System Sizing**: Optimal configuration of residential photovoltaic (PV) systems and battery storage to maximize long-term economic benefits
+6. **Second Life Battery Applications**: Researched challenges and opportunities of second-life EV batteries for stationary energy storage
 
 *For detailed project descriptions, please visit my [Projects](/projects/) page.*
+
+---
+
+## Certifications
+
+- **Machine Learning Fundamentals - edX (UC San Diego)** | [Aug 2025] [↗](https://courses.edx.org/certificates/df9a4b2e51d84e3b8eb75865b0006e0d){:target="_blank"}
+- **Pytorch for Deep Learning - Udemy** | [Aug 2025] [↗](https://www.udemy.com/certificate/UC-5970fc13-f2b0-4490-b3d1-2966b7ac9ab0){:target="_blank"}
+- **Big Data with Apache Spark and Python - Udemy** | [Jul 2025] [↗](https://www.udemy.com/certificate/UC-16fbbe70-f578-4f3b-a1ff-06cbba7e6c04){:target="_blank"}
+- **SQL for Advanced Data Analysis - Udemy** | [June 2025] [↗](https://www.udemy.com/certificate/UC-2c6c401c-a1ae-4b3c-b3d4-2717553d20f0){:target="_blank"}
+- **Probability & Statistics - edX (UC San Diego)** | [Feb 2025] [↗](https://courses.edx.org/certificates/c6433a1927024d3a878514831d4d8eb7){:target="_blank"}
+- **Probability & Statistics - Udemy** | [Oct 2024] [↗](https://www.udemy.com/certificate/UC-61e303e7-e906-42e1-a43b-c0388a4c10fa){:target="_blank"}
+- **Python for Machine Learning & Data Science - Udemy** | [Oct 2024] [↗](https://www.udemy.com/certificate/UC-2096094f-31a0-43f6-8411-44046d603a5b/){:target="_blank"}
+- **Python for Data Science - edX (UC San Diego)** | [Jul 2024] [↗](https://courses.edx.org/certificates/417fdb88776544ddb4341da151414937){:target="_blank"}
+- **Probability - The Science of Uncertainty and Data edX (MIT)** | [Sep 2023] [↗](https://courses.edx.org/certificates/7ad1cf41f11c44bdb8518f9fa365f289){:target="_blank"}
+- **SQL Bootcamp - Udemy** | [May 2023] [↗](https://www.udemy.com/certificate/UC-04e1c74a-41dd-444b-94a9-c5eefca8c127){:target="_blank"}
+- **Microsoft Power BI - Udemy** | [Mar 2023] [↗](https://www.udemy.com/certificate/UC-b8884962-fcfb-4109-850e-cef106a88653){:target="_blank"}
+- **Python Bootcamp - Udemy** | [Mar 2023] [↗](https://www.udemy.com/certificate/UC-291ea550-eef0-4beb-a712-152ab8009628){:target="_blank"}
+
 
 ---
 
@@ -183,7 +185,7 @@ improving reporting accuracy by 5%
 ## Languages
 
 - **English**: Fluent (C1)
-- **German**: Intermediate (B1)
+- **German**: Intermediate (B1; B2 in progress)
 - **Urdu**: Native
 
 ---
@@ -204,7 +206,7 @@ improving reporting accuracy by 5%
 
 ---
 
-*Last updated: 30.09.2025*
+*Last updated: 21.11.2025*
 
 <!-- <div class="notice--primary">
   <h4>📞 Let's Connect</h4>
