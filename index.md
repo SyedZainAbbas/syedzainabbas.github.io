@@ -82,7 +82,7 @@ Welcome! I'm **Syed Zain Abbas**, a Data Scientist and Engineer passionate about
 ---
 
 ## Latest Updates
-- **[10.09.2025]**: Master's thesis accepted for presentation at the [NeurIPS 2025 Workshop ↗](https://www.climatechange.ai/events/neurips2025){:target="_blank"}
+- **[07.12.2025]**: NeurIPS Workshop 2025 — Presented Master’s thesis research (More info [↗](https://neurips.cc/virtual/2025/loc/san-diego/poster/127001){:target="_blank"})
 - **[02.09.2025]**: Published my Master's thesis research on [arXiv ↗](http://arxiv.org/abs/2509.02469){:target="_blank"}
 - **[31.08.2025]**: Achieved 97% in UC San DiegoX's Machine Learning Fundamentals course [↗](https://courses.edx.org/certificates/df9a4b2e51d84e3b8eb75865b0006e0d){:target="_blank"}
 
