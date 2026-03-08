@@ -23,16 +23,10 @@ header:
 #       icon: "fas fa-download"
 ---
 
-## Professional Summary
-
-Experienced Data Scientist and Engineer with 2 years of expertise in machine learning, data analytics, and software development. Proven track record of delivering data-driven solutions that drive business value and innovation. Passionate about leveraging advanced analytics and AI to solve complex real-world problems.
-
----
-
 ## Education
 
 ### Micro-Masters Data Science
-**UC San Diego (edX)** | California, USA | 2024 - Present
+**UC San Diego (edX)** | California, USA | 2024 - 2026
 - **Grade**: A
 - **Relevant Coursework**: Python for Data Science, Probability & Statistics, Machine Learning Fundamentals, Big Data Analytics
 
@@ -51,6 +45,10 @@ Experienced Data Scientist and Engineer with 2 years of expertise in machine lea
 ---
 
 ## Professional Experience
+### Independent Contributor – Energy Systems Research
+**Chair of Renewable and Sustainable Energy Systems, TUM** | Munich, Germany | Dec 2025 - Present
+- Created a Python‑based tool to convert PandaPower grids to PyPSA networks from PandaPower Excel inputs, supporting a PhD student’s research on energy systems co‑simulation at TUM 
+- **Technologies**: Python, PyPSA, PandaPower, Docker
 
 ### Data Engineer
 **Munich Electrification** | Munich, Germany | Apr 2025 - Present
@@ -150,6 +148,7 @@ improving reporting accuracy by 5%
 
 ## Certifications
 
+- **Big Data Analytics Using Spark - edX (UC San Diego)** | [Mar 2026] [↗](https://courses.edx.org/certificates/896eca29c23c47259a3bf24e97121518){:target="_blank"}
 - **Machine Learning Fundamentals - edX (UC San Diego)** | [Aug 2025] [↗](https://courses.edx.org/certificates/df9a4b2e51d84e3b8eb75865b0006e0d){:target="_blank"}
 - **Pytorch for Deep Learning - Udemy** | [Aug 2025] [↗](https://www.udemy.com/certificate/UC-5970fc13-f2b0-4490-b3d1-2966b7ac9ab0){:target="_blank"}
 - **Big Data with Apache Spark and Python - Udemy** | [Jul 2025] [↗](https://www.udemy.com/certificate/UC-16fbbe70-f578-4f3b-a1ff-06cbba7e6c04){:target="_blank"}
@@ -206,7 +205,7 @@ improving reporting accuracy by 5%
 
 ---
 
-*Last updated: 21.11.2025*
+*Last updated: 08.03.2026*
 
 <!-- <div class="notice--primary">
   <h4>📞 Let's Connect</h4>

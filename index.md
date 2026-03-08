@@ -18,7 +18,7 @@ excerpt: "Data Scientist & Engineer focused on machine learning, optimization, a
 
 ## About Me
 
-Welcome! I'm **Syed Zain Abbas**, a Data Scientist and Engineer passionate about applying machine learning and advanced analytics to tackle complex challenges in energy and power systems. I bring broad experience in data engineering, ETL pipelines, database design, optimization, deep learning, and KPI dashboard development. My work bridges research innovation with practical applications, including recent efforts on graph-based generative models for synthetic distribution grid data generation. I thrive on solving challenging problems at the intersection of data science and energy engineering.
+Welcome! I’m **Syed Zain Abbas**, a power engineering graduate and data scientist focused on applying machine learning and advanced analytics to energy systems. My work sits at the intersection of renewable energy, energy markets, and data-driven modelling. Experienced in applying Python-based analytics and machine learning to electricity price forecasting, generation forecasting, and energy system optimization, as well as building data pipelines, databases, and analytical tools in industrial environments. My recent research explores graph-based generative models for synthetic distribution grid data generation. I’m motivated by using data and intelligent systems to help design more resilient and sustainable energy infrastructure.
 
 ### What I Do
 
@@ -82,7 +82,8 @@ Welcome! I'm **Syed Zain Abbas**, a Data Scientist and Engineer passionate about
 ---
 
 ## Latest Updates
-- **[07.12.2025]**: NeurIPS Workshop 2025 — Presented Master’s thesis research (More info [↗](https://neurips.cc/virtual/2025/loc/san-diego/poster/127001){:target="_blank"})
+- **[08.03.2026]**: Awarded MicroMasters in Data Science, UC San DiegoX [↗](https://credentials.edx.org/credentials/68ca4905c3244c208307f7368e69bd4f/){:target="_blank"}
+- **[07.12.2025]**: NeurIPS Workshop 2025 — Presented Master’s thesis research (More info [↗](https://neurips.cc/virtual/2025/loc/san-diego/poster/127001){:target="_blank"}
 - **[02.09.2025]**: Published my Master's thesis research on [arXiv ↗](http://arxiv.org/abs/2509.02469){:target="_blank"}
 - **[31.08.2025]**: Achieved 97% in UC San DiegoX's Machine Learning Fundamentals course [↗](https://courses.edx.org/certificates/df9a4b2e51d84e3b8eb75865b0006e0d){:target="_blank"}
 
