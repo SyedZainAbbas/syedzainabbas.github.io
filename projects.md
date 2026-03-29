@@ -20,6 +20,40 @@ Welcome to my projects portfolio! Here you'll find a collection of my work in da
 
 <div class="project-grid">
 
+
+<!-- Energy System Modelling App -->
+<div class="project-item">
+  <h1>Energy System Modelling App</h1>
+  <div class="project-thumbnail">
+    <figure>
+      <img src="/assets/images/projects/energy-system-modeling-thumbnail.png" alt="ESM Thumbnail" />
+    </figure>
+  </div>
+  <div class="project-content">
+    <p>An interactive educational platform for hands-on energy system modelling and optimization. This project demonstrates how transmission infrastructure and market design influence electricity prices and dispatch using PyPSA, with a focus on developing both energy systems expertise and advanced programming skills.</p>
+
+    <h4>Key Features:</h4>
+    <ul>
+      <li><strong>Interactive Market Simulation:</strong> Comparative analysis of single-zone vs multi-zone electricity markets using real-time Streamlit dashboards, enabling exploration of how bidding zone configuration affects price formation and market efficiency</li>
+      <li><strong>Transmission Sensitivity Analysis:</strong> Dynamic slider-based interface to adjust interconnection capacities and observe real-time impacts on electricity prices, power flows, and dispatch decisions, demonstrating the relationship between infrastructure investment and market outcomes</li>
+    </ul>
+
+    <h4>Tech Stack:</h4>
+    <p><strong>Languages:</strong> Python<br>
+    <strong>Libraries:</strong> PyPSA, Streamlit, Pandas, Plotly, NumPy<br></p>
+
+    <p><strong>Status:</strong> Core bidding zone module complete; future versions will cover more concepts.</p>
+
+    <div class="project-buttons">
+      <a href="https://energy-system-modelling.streamlit.app/" class="btn btn--info" target="_blank">
+        <i class="fas fa-external-link-alt"></i> ESM App
+      </a>
+    </div>
+  </div>
+</div>
+<br>
+
+
 <!-- GridGEN Project -->
 <div class="project-item">
   <h1>GridGEN: Synthetic Distribution Grid Data Generation</h1>

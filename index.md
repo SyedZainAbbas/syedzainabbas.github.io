@@ -82,6 +82,7 @@ Welcome! I’m **Syed Zain Abbas**, a power engineering graduate and data scient
 ---
 
 ## Latest Updates
+- **[29.03.2026]**: Launch of Energy System Modelling (ESM) app, an app for learning PyPSA for energy system modelling and energy market dynamics [↗](https://energy-system-modelling.streamlit.app/){:target="_blank"}
 - **[08.03.2026]**: Awarded MicroMasters in Data Science, UC San DiegoX [↗](https://credentials.edx.org/credentials/68ca4905c3244c208307f7368e69bd4f/){:target="_blank"}
 - **[07.12.2025]**: NeurIPS Workshop 2025 — Presented Master’s thesis research (More info [↗](https://neurips.cc/virtual/2025/loc/san-diego/poster/127001){:target="_blank"}
 - **[02.09.2025]**: Published my Master's thesis research on [arXiv ↗](http://arxiv.org/abs/2509.02469){:target="_blank"}
